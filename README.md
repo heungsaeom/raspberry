@@ -4,3 +4,5 @@ BMP085: https://thepihut.com/blogs/raspberry-pi-tutorials/18025084-sensors-press
 UART: https://electrosome.com/uart-raspberry-pi-python/
 
 PIR: https://electrosome.com/pir-motion-sensor-hc-sr501-raspberry-pi/
+
+NRF24L01: https://www.raspberrypi.org/magpi/pi-mi-light/
