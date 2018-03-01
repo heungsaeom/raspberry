@@ -6,3 +6,5 @@ UART: https://electrosome.com/uart-raspberry-pi-python/
 PIR: https://electrosome.com/pir-motion-sensor-hc-sr501-raspberry-pi/
 
 NRF24L01: https://www.raspberrypi.org/magpi/pi-mi-light/
+
+RFID: http://www.penguintutor.com/news/raspberrypi/rfid-rc522
